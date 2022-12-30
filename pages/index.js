@@ -13,29 +13,11 @@ export default function Home() {
       <main>
         <Header title="Le site de Maxime" />
         <div>
-        <h1> 2022 </h1>
-        <ul>
-           <li> <a href="https://photos.google.com/share/AF1QipNFqNDPqvtJ4dZOus7Nlbt4a0To0Sj4cIAqWR69dJkb_BteHTzOHJHV29EdB2rSLg?key=WVNQM0hUYTU5QkVOY25CMlZxVExuNnZDcHRTQ0J3"> Album 1 </a></li>
-           <li> <a href="https://photos.google.com/share/AF1QipOYZjgKT3OOgJTaVaqqgymcchbYiOuQOlYewwD7oUz-5yLPBWPs_ryZWQAh8CL37g?key=dHh6MEdhMUtIakVzSGpCTmVYTlhsZHM0VjkzeVRB"> Album 2 </a></li>
-        </ul>
+           <h1> 2020 </h1>
+           <ul>
+              <li> <a href="https://photos.app.goo.gl/JCAvZMeqnQApiUzS7"> 2020-06-13 - Fête de Charles-Olivier </a></li>
+           </ul>
         </div>
-    
-        <div>
-        <h1> 2021 </h1>
-        <ul>
-           <li> <a href="https://photos.google.com/share/AF1QipNFqNDPqvtJ4dZOus7Nlbt4a0To0Sj4cIAqWR69dJkb_BteHTzOHJHV29EdB2rSLg?key=WVNQM0hUYTU5QkVOY25CMlZxVExuNnZDcHRTQ0J3"> Album 1 </a></li>
-           <li> <a href="https://photos.google.com/share/AF1QipOYZjgKT3OOgJTaVaqqgymcchbYiOuQOlYewwD7oUz-5yLPBWPs_ryZWQAh8CL37g?key=dHh6MEdhMUtIakVzSGpCTmVYTlhsZHM0VjkzeVRB"> Album 2 </a></li>
-        </ul>
-        </div>
-    
-        <div>
-        <h1> 2020 </h1>
-        <ul>
-           <li> <a href="https://photos.google.com/share/AF1QipNFqNDPqvtJ4dZOus7Nlbt4a0To0Sj4cIAqWR69dJkb_BteHTzOHJHV29EdB2rSLg?key=WVNQM0hUYTU5QkVOY25CMlZxVExuNnZDcHRTQ0J3"> Album 1 </a></li>
-           <li> <a href="https://photos.google.com/share/AF1QipOYZjgKT3OOgJTaVaqqgymcchbYiOuQOlYewwD7oUz-5yLPBWPs_ryZWQAh8CL37g?key=dHh6MEdhMUtIakVzSGpCTmVYTlhsZHM0VjkzeVRB"> Album 2 </a></li>
-        </ul>
-        </div>
-
     
       </main>
 
